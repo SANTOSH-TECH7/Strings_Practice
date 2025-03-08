@@ -13,7 +13,7 @@ class ReverseString{
         for(int i=end;i>=start;i--)
         {
              char ch=a.charAt(i);
-             System.out.print(ch+ " ");
+             System.out.print(ch+ "");
         }
 
         

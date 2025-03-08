@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Range_count",
+            "request": "launch",
+            "mainClass": "Range_count",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "SearchRange",
+            "request": "launch",
+            "mainClass": "SearchRange",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "MedainOfSortedArr",
+            "request": "launch",
+            "mainClass": "MedainOfSortedArr",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "dupicateString",
+            "request": "launch",
+            "mainClass": "dupicateString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "HalfStringRev",
+            "request": "launch",
+            "mainClass": "HalfStringRev",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "SumOFConsecutiveDigit",
+            "request": "launch",
+            "mainClass": "SumOFConsecutiveDigit",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "DigitalLock",
+            "request": "launch",
+            "mainClass": "DigitalLock",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "SuspiciousNumber",
+            "request": "launch",
+            "mainClass": "SuspiciousNumber",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Maxsignal",
+            "request": "launch",
+            "mainClass": "Maxsignal",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "CountOfSubString",
+            "request": "launch",
+            "mainClass": "CountOfSubString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "SoildersDefeat",
+            "request": "launch",
+            "mainClass": "SoildersDefeat",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "StringCountVal",
+            "request": "launch",
+            "mainClass": "StringCountVal",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "ArrangingString",
+            "request": "launch",
+            "mainClass": "ArrangingString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "CountOfStirnginStrings",
+            "request": "launch",
+            "mainClass": "CountOfStirnginStrings",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "sumOfCharacterswithAssignedVal",
+            "request": "launch",
+            "mainClass": "sumOfCharacterswithAssignedVal",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "StringtoAlphabetical",
+            "request": "launch",
+            "mainClass": "StringtoAlphabetical",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Salary",
+            "request": "launch",
+            "mainClass": "Salary",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Numberplate",
+            "request": "launch",
+            "mainClass": "Numberplate",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "FirstLetterCaps",
+            "request": "launch",
+            "mainClass": "FirstLetterCaps",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "AlternateMerge",
+            "request": "launch",
+            "mainClass": "AlternateMerge",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringValues",
+            "request": "launch",
+            "mainClass": "ReverseStringValues",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "MultiplyOfString",
+            "request": "launch",
+            "mainClass": "MultiplyOfString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Compression",
+            "request": "launch",
+            "mainClass": "Compression",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Changingvowels",
+            "request": "launch",
+            "mainClass": "Changingvowels",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "CharArrtoString",
+            "request": "launch",
+            "mainClass": "CharArrtoString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "Removeduplicate",
+            "request": "launch",
+            "mainClass": "Removeduplicate",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "countvowels",
+            "request": "launch",
+            "mainClass": "countvowels",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "frequencycounter",
+            "request": "launch",
+            "mainClass": "frequencycounter",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "largestchar",
+            "request": "launch",
+            "mainClass": "largestchar",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "replace",
+            "request": "launch",
+            "mainClass": "replace",
+            "projectName": "Strings_efaf1132"
+        },
+        {
+            "type": "java",
+            "name": "substring",
+            "request": "launch",
+            "mainClass": "substring",
+            "projectName": "Strings_efaf1132"
+        }
+    ]
+}
